@@ -1,0 +1,7 @@
+{
+  "name": "Receipt2Sheet Pro",
+  "description": "Scan receipts instantly using Gemini AI and export data directly to spreadsheets. Features high-accuracy OCR, itemized breakdowns, and cloud export simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
